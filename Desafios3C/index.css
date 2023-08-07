@@ -1,0 +1,44 @@
+*{
+    text-align: center;
+    margin: 0;
+}
+
+div{
+
+    margin:10px;
+}
+button{
+    margin:10px;
+}
+
+hr{
+    width: 100%;
+}
+.borde{
+    border: solid gray;
+}
+
+input{
+    font-family: 'Mulish', sans-serif;
+    font-size: 14pt;
+    color: #414166;
+    width: 500px;
+    height:50px;
+}
+
+button{
+    font-family: 'Mulish', sans-serif;
+    font-size: 14pt;
+    background-color: #0a2ff1;
+}
+p{
+    font-family: 'Mulish', sans-serif;
+    font-size: 14pt;
+    color: #0a2ff1;
+}
+
+h3{
+    color:#04146c;
+    font-family: 'Mulish', sans-serif;
+    font-size: 18pt;
+}

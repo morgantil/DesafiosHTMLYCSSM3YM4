@@ -1,0 +1,32 @@
+.contenedor-imagenes {
+    display: flex;
+  }
+  
+  .contenedor-imagenes img {
+    width: 30%; /* Ajustar el ancho de las imágenes */
+    height: auto; /* Mantener la proporción de aspecto */
+    margin: 5px; /* Espacio entre las imágenes */
+  }
+
+h1{
+color:#0a2ff1;
+font-family: 'Poppins', sans-serif;
+font-size:55pt;
+font-weight: bold;
+font-weight: 50pt;
+}
+p{
+color:#0a2ff1;
+font-family: 'Poppins', sans-serif;
+font-size:22,55pt;
+font-weight: bold;
+font-weight: 50pt;
+background-color:#eff2ff;
+}
+button{
+    font-family: 'Poppins', sans-serif;    
+    background-color:#8a9af1;
+    font-size:22.5pt;
+}
+  
+  
